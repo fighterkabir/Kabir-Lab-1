@@ -48,7 +48,7 @@
 
 ### Some more background:
 
-My full name is Kabir Shergill, and I was born in _New Delhi, India_. I moved to the U.S when I was five, and up until about 10 years ago I was moving between the US and Canada. Since then, I have been living in Seattle with both my parents and my dog, _Cora_. Besides my hobbies listed [here](#a-couple-of-my-hobbies), I enjoy hiking, watching movies with friends (or going to the theatre), and spending time lots of time with my family. I am pursuing a degree in C.S, and am especially interested in the A.I track, a list of my strongest languages are [up above](#favorite-programming-languages-in-order). Really appreciate you for taking the time to read this! Also, here is a link to the [readme](/README.md) in case you want to share the link to this website. 
+My full name is Kabir Shergill, and I was born in _New Delhi, India_. I moved to the U.S when I was five, and up until about 10 years ago I was moving between the US and Canada. Since then, I have been living in Seattle with both my parents and my dog, _Cora_. Besides my hobbies listed [here](#a-couple-of-my-hobbies), I enjoy hiking, watching movies with friends (or going to the theatre), and spending time lots of time with my family. I am pursuing a degree in C.S, and am especially interested in the A.I track, a list of my strongest languages are [up above](#favorite-programming-languages-in-order). Really appreciate you for taking the time to read this! Also, here is a link to the [readme](README.md) in case you want to share the link to this website. 
 
 ---
 
